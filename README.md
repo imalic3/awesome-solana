@@ -156,6 +156,10 @@
 > Bonfida is a an on-chain and off-chain tool suite that enables the creation of trading pools.
 - Github: https://github.com/Bonfida
 
+### IdentitySwap (forked token-swap)
+> IdentitySwap is an Automatic Money Market (AMM) dApp that demonstrates the concept of Decentralised Identity on the Solana SPL Token-Swap program. A user can interact with a liquidity pool only if they are in possession of a valid identity account, certified by a trusted identity validator.
+- Github: https://github.com/civicteam/identity-swap
+
 - - -
 
 ## 🕵🏻‍♂️ Audit
