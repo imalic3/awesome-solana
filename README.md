@@ -110,6 +110,7 @@
 - [SPL Manager](http://splmanager.com/)
 - [Phantom Wallet](https://phantom.app/) A non-custodial, chrome extension, Solana crypto wallet
 - [SolFlare](https://solflare.com/) Non-custodial wallet for Solana
+- [honggfuzz-rs](https://github.com/rust-fuzz/honggfuzz-rs): Fuzz your Rust code with Google-developed Honggfuzz!
 
 ### Network status
 
